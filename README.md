@@ -1,6 +1,6 @@
 # Instant Online Grocery Platform
 
-![CI/CD](https://github.com/Sandeep310/instant-online-grocery-platform/actions/workflows/main.yml/badge.svg)
+![CI/CD](https://github.com/Sandeep310/instant-online-grocery-platform/actions/workflows/main.yaml/badge.svg)
 
 ## Project Overview
 
